@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\Bowling2\bin\Debug\net7.0\Bowling2.exe
+C:\Users\ander\Documents\Bowling2\bin\Debug\net7.0\Bowling2.deps.json
+C:\Users\ander\Documents\Bowling2\bin\Debug\net7.0\Bowling2.runtimeconfig.json
+C:\Users\ander\Documents\Bowling2\bin\Debug\net7.0\Bowling2.dll
+C:\Users\ander\Documents\Bowling2\bin\Debug\net7.0\Bowling2.pdb
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.AssemblyInfo.cs
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.dll
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\refint\Bowling2.dll
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.pdb
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\Bowling2.genruntimeconfig.cache
+C:\Users\ander\Documents\Bowling2\obj\Debug\net7.0\ref\Bowling2.dll
